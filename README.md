@@ -75,6 +75,7 @@ Here's my tech stack I'm currently used to and prefer:
   <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
 <div>
  
+    
 ### Stats
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=codewithowais&theme=nord&hide=stars" />
