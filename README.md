@@ -76,7 +76,7 @@ Here's my tech stack I'm currently used to and prefer:
 <div>
  
     
-### Stats
+### Status
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=codewithowais&theme=nord&hide=stars" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithowais&layout=compact&theme=nord" />
