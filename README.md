@@ -72,7 +72,15 @@ Here's my tech stack I'm currently used to and prefer:
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
 <div>
- 
+
+    
+## ❤ Views and Followers
+    
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=codewithowais">
+</a>
+<a href="https://github.com/codewothowais?tab=followers"><img src="https://img.shields.io/github/followers/codewithowais?label=Followers&style=social" alt="GitHub Badge"></a> 
+    
     
 ### Status
 
@@ -80,8 +88,3 @@ Here's my tech stack I'm currently used to and prefer:
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithowais&layout=compact&theme=dark&langs_count=50" />
 
     
-## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=codewithowais">
-</a>
-<a href="https://github.com/codewothowais?tab=followers"><img src="https://img.shields.io/github/followers/codewithowais?label=Followers&style=social" alt="GitHub Badge"></a>
