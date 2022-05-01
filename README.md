@@ -45,6 +45,10 @@ Reach out to me directly through:
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
 </a>
 
+<a href="https://www.youtube.com/channel/UCs9sIyM5vr-YumfgGdZpkOw/" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+
 ### Tech Stack
 
 Here's my tech stack I'm currently used to and prefer:
