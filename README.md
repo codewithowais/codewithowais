@@ -84,12 +84,15 @@ I'm a **Senior Full-Stack Developer** with a proven track record of delivering *
 ---
 
 ## 📈 GitHub Stats
-<p align="center">
+
+<div align="center">
   <img height="180px" src="https://github-readme-stats.vercel.app/api?username=codewithowais&show_icons=true&theme=radical&count_private=true" />
   <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithowais&layout=compact&theme=radical&langs_count=10" />
-</p>
+</div>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=codewithowais&theme=radical)](https://git.io/streak-stats)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codewithowais&theme=radical" alt="GitHub Streak Stats"/>
+</div>
 
 ---
 
