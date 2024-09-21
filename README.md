@@ -12,7 +12,11 @@
 </div>
 
 ## 👨‍💻 About Me
-I'm a **Senior Full-Stack Developer** with expertise in building scalable web and mobile applications using **Angular, React.js, Node.js,** and other modern technologies. With over **3+ years of experience**, I have a passion for creating seamless user experiences and solving complex problems through efficient code.
+I'm a **Senior Full-Stack Developer** with a proven track record of delivering **scalable, high-performance web and mobile applications** using **Angular, React.js, Node.js**, and a variety of cutting-edge technologies. With over **3+ years of experience**, I specialize in building end-to-end solutions that enhance user experience, increase efficiency, and solve complex problems with clean, maintainable code. Passionate about **software architecture, frontend innovation, and seamless backend integration**, I thrive in transforming ideas into reality.
+
+- 🔥 **Expert in Full-Stack Development**: Crafting exceptional web applications from the ground up
+- 🌐 **Proficient in multiple frameworks**: Angular, React.js, Node.js, .NET, and Django
+- 🚀 **Ready to take on challenges**: Enjoy working on high-impact projects that make a difference
 
 ---
 
@@ -73,9 +77,9 @@ I'm a **Senior Full-Stack Developer** with expertise in building scalable web an
 ---
 
 ## 🚀 Featured Projects
-- [**E-Learning Platform**](https://github.com/your-repo-link): A responsive e-learning web application built with Angular and Firebase.
-- [**Inventory Management App**](https://github.com/your-repo-link): A cross-platform mobile inventory management app using Flutter.
-- [**Social Media Analytics Dashboard**](https://github.com/your-repo-link): An analytics dashboard created with React and Node.js.
+- 🌟 **[E-Learning Platform](https://github.com/your-repo-link)**: Built a highly responsive e-learning web application using Angular and Firebase, enhancing the user experience for over 5,000+ students.
+- 🌟 **[Inventory Management App](https://github.com/your-repo-link)**: Developed a cross-platform inventory management app using Flutter, enabling businesses to streamline operations.
+- 🌟 **[Social Media Analytics Dashboard](https://github.com/your-repo-link)**: Created an analytics dashboard using React and Node.js, providing real-time insights for social media campaigns.
 
 ---
 
@@ -89,27 +93,35 @@ I'm a **Senior Full-Stack Developer** with expertise in building scalable web an
 
 ---
 
-## 📫 Contact
-Reach out to me directly through:
+## 📫 Let's Connect
+Reach out to me directly through any of the following platforms:
 
 <a href="https://www.linkedin.com/in/codewithowais/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
 <a href="mailto:codewithowais@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
 <a href="https://wa.me/923169585886/" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
-
 <a href="https://twitter.com/CodeWithOwais/" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
-
+<a href="https://www.instagram.com/codewithowais/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="https://www.facebook.com/codewithowais/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
 <a href="https://codewithowais.medium.com/" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+</a>
+<a href="https://www.youtube.com/channel/UCs9sIyM5vr-YumfgGdZpkOw/" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+<a href="https://dev.to/codewithowais/" target="_blank">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
 </a>
 
 ---
