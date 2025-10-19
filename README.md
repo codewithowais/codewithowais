@@ -12,7 +12,7 @@
 </div>
 
 ## 👨‍💻 About Me
-I'm a **Senior Full-Stack Developer** with a proven track record of delivering **scalable, high-performance web and mobile applications** using **Angular, React.js, Node.js**, and a variety of cutting-edge technologies. With over **4+ years of experience**, I specialize in building end-to-end solutions that enhance user experience, increase efficiency, and solve complex problems with clean, maintainable code. Passionate about **software architecture, frontend innovation, and seamless backend integration**, I thrive in transforming ideas into reality.
+I'm a **Senior Full-Stack Developer** with a proven track record of delivering **scalable, high-performance web and mobile applications** using **Flutter, Angular, React.js, Node.js**, and a variety of cutting-edge technologies. With over **6+ years of experience**, I specialize in building end-to-end solutions that enhance user experience, increase efficiency, and solve complex problems with clean, maintainable code. Passionate about **software architecture, frontend innovation, and seamless backend integration**, I thrive in transforming ideas into reality.
 
 - 🔥 **Expert in Full-Stack Development**: Crafting exceptional web applications from the ground up
 - 🌐 **Proficient in multiple frameworks**: Angular, React.js, Node.js, .NET, and Django
