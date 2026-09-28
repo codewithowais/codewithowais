@@ -12,11 +12,11 @@
 </div>
 
 ## 👨‍💻 About Me
-I'm a **Senior Full-Stack Developer** with a proven track record of delivering **scalable, high-performance web and mobile applications** using **Flutter, Angular, React.js, Node.js**, and a variety of cutting-edge technologies. With over **6+ years of experience**, I specialize in building end-to-end solutions that enhance user experience, increase efficiency, and solve complex problems with clean, maintainable code. Passionate about **software architecture, frontend innovation, and seamless backend integration**, I thrive in transforming ideas into reality.
+I'm a **Staff Software Engineer** with **6+ years of experience** building and shipping **scalable, high-performance web and mobile applications** with **Angular, React.js, Node.js, .NET, and Flutter**. As a **founding, core team member at SimpliEd**, I've helped grow an EdTech platform from an empty repo to **25,000+ users across 10 schools** — owning architecture across the Angular web app, Flutter mobile apps, and the Node.js + MongoDB backend on AWS. I also teach: as **Lead Trainer at Jawan Pakistan**, I built the Flutter curriculum and trained **1,200+ developers**.
 
-- 🔥 **Expert in Full-Stack Development**: Crafting exceptional web applications from the ground up
-- 🌐 **Proficient in multiple frameworks**: Angular, React.js, Node.js, .NET, and Django
-- 🚀 **Ready to take on challenges**: Enjoy working on high-impact projects that make a difference
+- 🔥 **Full-stack + mobile**: Angular / React / Node / .NET on the web, Flutter on mobile
+- 🏗️ **Architecture & ownership**: system design, code review, CI/CD, and AWS in production
+- 🚀 **AI-assisted engineering**: I ship real products and build developer tools like the [AI Prompt Builder](https://codewithowais.github.io/flutter-prompt-builder/)
 
 ---
 
@@ -77,9 +77,12 @@ I'm a **Senior Full-Stack Developer** with a proven track record of delivering *
 ---
 
 ## 🚀 Featured Projects
-- 🌟 **[E-Learning Platform](https://github.com/your-repo-link)**: Built a highly responsive e-learning web application using Angular and Firebase, enhancing the user experience for over 5,000+ students.
-- 🌟 **[Inventory Management App](https://github.com/your-repo-link)**: Developed a cross-platform inventory management app using Flutter, enabling businesses to streamline operations.
-- 🌟 **[Social Media Analytics Dashboard](https://github.com/your-repo-link)**: Created an analytics dashboard using React and Node.js, providing real-time insights for social media campaigns.
+- 🌟 **[SimpliEd](https://simpliedtech.com)** — Founding / core team. A school-management EdTech platform (Angular, Node.js, Flutter, MongoDB, AWS) serving **25,000+ users across 10 schools**: attendance, fee invoicing, announcements, and a full LMS across web and mobile.
+- 🌟 **[AI Prompt Builder](https://codewithowais.github.io/flutter-prompt-builder/)** — A free, no-sign-up tool that builds production-ready AI prompts from **60+ templates** across code (17 frameworks), chat, image, video, and voice models.
+- 🌟 **[Ledgerly](https://github.com/codewithowais/expense-tracker)** — An offline-first, privacy-first finance PWA with an AI assistant that turns receipts and statements into clean transactions (Next.js, React, TypeScript, IndexedDB).
+- 🌟 **[DevPath](https://dev-path-by-codewithowais.vercel.app)** — A learning platform for early-career devs: roadmaps, a career ladder, and 200+ runnable lessons with a live "Watch it sort" algorithm visualizer.
+
+> More projects and live apps on my portfolio: **[codewithowais.github.io](https://codewithowais.github.io/)**
 
 ---
 
@@ -134,4 +137,4 @@ Reach out to me directly through any of the following platforms:
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=codewithowais">
 </a>
-<a href="https://github.com/codewithowais?tab=followers"><img src="https://img.shields.io/github/followers/codewithowais?label=Followers&style=social" alt="GitHub Badge"></a> 
+<a href="https://github.com/codewithowais?tab=followers"><img src="https://img.shields.io/github/followers/codewithowais?label=Followers&style=social" alt="GitHub Badge"></a>
