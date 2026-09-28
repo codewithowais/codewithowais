@@ -134,7 +134,7 @@ Reach out to me directly through any of the following platforms:
 
 ## ❤ Views and Followers
     
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=codewithowais">
+<a href="https://github.com/codewithowais">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=codewithowais.codewithowais&left_text=Profile%20Views&left_color=555555&right_color=0e75b6" alt="Profile Views" />
 </a>
 <a href="https://github.com/codewithowais?tab=followers"><img src="https://img.shields.io/github/followers/codewithowais?label=Followers&style=social" alt="GitHub Badge"></a>
