@@ -84,6 +84,7 @@ I'm a **Staff Software Engineer** with **6+ years of experience** building and s
 - 🌟 **[Zulaal](https://zulaal.vercel.app)** — A brand site for a premium Pakistani water company, with a three.js 3D hero, the product range, custom-labeled bottle orders, and a React + Firebase admin for quotes, messages and products.
 - 🌟 **[Tic-Tac-Toe Live](https://tictactoe-live.vercel.app)** — Real-time multiplayer for 2–4 players: make a room, share the link, and play while others watch, with browser-to-browser voice chat, computer opponents and a weekly leaderboard (Next.js, Convex, WebRTC).
 - 🌟 **[Aura Aesthetics](https://aesthic-clinic-demo.vercel.app)** — A concept site for a London aesthetic clinic: a filterable treatment menu with prices and durations, packages, offers, booking and WhatsApp chat (React, Vite).
+- 🌟 **[Umbra Auto Studio](https://umbra-auto-studio.vercel.app)** — A concept site for a car tinting and detailing studio: services, a tint-shade picker, membership plans, reviews and an estimate-to-booking form (Next.js).
 
 > More projects and live apps on my portfolio: **[codewithowais.github.io](https://codewithowais.github.io/)**
 
