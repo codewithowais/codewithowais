@@ -82,6 +82,7 @@ I'm a **Staff Software Engineer** with **6+ years of experience** building and s
 - 🌟 **[Ledgerly](https://github.com/codewithowais/expense-tracker)** — An offline-first, privacy-first finance PWA with an AI assistant that turns receipts and statements into clean transactions (Next.js, React, TypeScript, IndexedDB).
 - 🌟 **[DevPath](https://dev-path-by-codewithowais.vercel.app)** — A learning platform for early-career devs: roadmaps, a career ladder, and 200+ runnable lessons with a live "Watch it sort" algorithm visualizer.
 - 🌟 **[Zulaal](https://zulaal.vercel.app)** — A brand site for a premium Pakistani water company, with a three.js 3D hero, the product range, custom-labeled bottle orders, and a React + Firebase admin for quotes, messages and products.
+- 🌟 **[Tic-Tac-Toe Live](https://tictactoe-live.vercel.app)** — Real-time multiplayer for 2–4 players: make a room, share the link, and play while others watch, with browser-to-browser voice chat, computer opponents and a weekly leaderboard (Next.js, Convex, WebRTC).
 
 > More projects and live apps on my portfolio: **[codewithowais.github.io](https://codewithowais.github.io/)**
 
