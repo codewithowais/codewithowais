@@ -81,7 +81,7 @@ I'm a **Staff Software Engineer** with **6+ years of experience** building and s
 - 🌟 **[AI Prompt Builder](https://codewithowais.github.io/flutter-prompt-builder/)** — A free, no-sign-up tool that builds production-ready AI prompts from **60+ templates** across code (17 frameworks), chat, image, video, and voice models.
 - 🌟 **[Ledgerly](https://github.com/codewithowais/expense-tracker)** — An offline-first, privacy-first finance PWA with an AI assistant that turns receipts and statements into clean transactions (Next.js, React, TypeScript, IndexedDB).
 - 🌟 **[DevPath](https://dev-path-by-codewithowais.vercel.app)** — A learning platform for early-career devs: roadmaps, a career ladder, and 200+ runnable lessons with a live "Watch it sort" algorithm visualizer.
-- 🌟 **[Zulaal](https://github.com/codewithowais/zulaal)** — A brand site for a premium Pakistani water company, with a three.js 3D hero, the product range, custom-labeled bottle orders, and a React + Firebase admin for quotes, messages and products.
+- 🌟 **[Zulaal](https://zulaal.vercel.app)** — A brand site for a premium Pakistani water company, with a three.js 3D hero, the product range, custom-labeled bottle orders, and a React + Firebase admin for quotes, messages and products.
 
 > More projects and live apps on my portfolio: **[codewithowais.github.io](https://codewithowais.github.io/)**
 
