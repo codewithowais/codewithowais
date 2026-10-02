@@ -83,6 +83,7 @@ I'm a **Staff Software Engineer** with **6+ years of experience** building and s
 - 🌟 **[DevPath](https://dev-path-by-codewithowais.vercel.app)** — A learning platform for early-career devs: roadmaps, a career ladder, and 200+ runnable lessons with a live "Watch it sort" algorithm visualizer.
 - 🌟 **[Zulaal](https://zulaal.vercel.app)** — A brand site for a premium Pakistani water company, with a three.js 3D hero, the product range, custom-labeled bottle orders, and a React + Firebase admin for quotes, messages and products.
 - 🌟 **[Tic-Tac-Toe Live](https://tictactoe-live.vercel.app)** — Real-time multiplayer for 2–4 players: make a room, share the link, and play while others watch, with browser-to-browser voice chat, computer opponents and a weekly leaderboard (Next.js, Convex, WebRTC).
+- 🌟 **[Aura Aesthetics](https://aesthic-clinic-demo.vercel.app)** — A concept site for a London aesthetic clinic: a filterable treatment menu with prices and durations, packages, offers, booking and WhatsApp chat (React, Vite).
 
 > More projects and live apps on my portfolio: **[codewithowais.github.io](https://codewithowais.github.io/)**
 
